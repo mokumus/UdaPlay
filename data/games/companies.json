@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Electronic Arts",
+    "headquarters": "Redwood City, California, USA",
+    "founded": "1982",
+    "notable_franchises": ["FIFA", "Madden NFL", "Battlefield", "The Sims", "Need for Speed", "Apex Legends"],
+    "current_projects": "EA is currently working on EA Sports FC series (successor to FIFA), the next Battlefield game, and expanding Apex Legends content.",
+    "description": "Electronic Arts (EA) is one of the largest video game publishers in the world, known for its sports games, shooters, and simulation titles."
+  },
+  {
+    "name": "Rockstar Games",
+    "headquarters": "New York City, New York, USA",
+    "founded": "1998",
+    "notable_franchises": ["Grand Theft Auto", "Red Dead Redemption", "Max Payne", "Bully", "L.A. Noire"],
+    "current_projects": "Rockstar Games is currently working on Grand Theft Auto VI (GTA 6), which was officially announced with a trailer in December 2023 and is expected to release in 2025.",
+    "description": "Rockstar Games is a renowned video game publisher known for creating expansive open-world games with mature narratives and high production values."
+  },
+  {
+    "name": "Nintendo",
+    "headquarters": "Kyoto, Japan",
+    "founded": "1889",
+    "notable_franchises": ["Mario", "The Legend of Zelda", "Pokemon", "Metroid", "Animal Crossing", "Super Smash Bros."],
+    "current_projects": "Nintendo is working on games for the Nintendo Switch 2 console, including new entries in their flagship franchises.",
+    "description": "Nintendo is a Japanese multinational video game company and one of the most recognized names in gaming, known for family-friendly yet deeply engaging games."
+  },
+  {
+    "name": "Sony Interactive Entertainment",
+    "headquarters": "San Mateo, California, USA",
+    "founded": "1993",
+    "notable_franchises": ["God of War", "The Last of Us", "Uncharted", "Spider-Man", "Horizon", "Gran Turismo"],
+    "current_projects": "Sony is expanding its live-service games lineup and continuing to develop PlayStation exclusive titles including new entries in their flagship series.",
+    "description": "Sony Interactive Entertainment (SIE) is the video game division of Sony, responsible for the PlayStation brand and some of gaming's most acclaimed exclusive titles."
+  },
+  {
+    "name": "CD Projekt",
+    "headquarters": "Warsaw, Poland",
+    "founded": "1994",
+    "notable_franchises": ["The Witcher", "Cyberpunk"],
+    "current_projects": "CD Projekt Red is currently developing Project Polaris (the next Witcher game), Project Orion (Cyberpunk sequel), and Project Hadar (a new IP).",
+    "description": "CD Projekt is a Polish video game developer and publisher best known for The Witcher series and Cyberpunk 2077, and also operates the GOG.com digital distribution platform."
+  },
+  {
+    "name": "FromSoftware",
+    "headquarters": "Tokyo, Japan",
+    "founded": "1986",
+    "notable_franchises": ["Dark Souls", "Bloodborne", "Sekiro", "Elden Ring", "Armored Core"],
+    "current_projects": "FromSoftware released the Elden Ring: Shadow of the Erdtree DLC in 2024 and is reportedly working on new projects.",
+    "description": "FromSoftware is a Japanese game developer renowned for creating challenging action RPGs with intricate world design and deep lore."
+  },
+  {
+    "name": "Mojang Studios",
+    "headquarters": "Stockholm, Sweden",
+    "founded": "2009",
+    "notable_franchises": ["Minecraft", "Minecraft Dungeons", "Minecraft Legends"],
+    "current_projects": "Mojang continues to update Minecraft with regular content updates and is expanding the Minecraft universe with new spinoff titles.",
+    "description": "Mojang Studios is a Swedish game developer best known for creating Minecraft, one of the best-selling video games of all time."
+  },
+  {
+    "name": "Bandai Namco Entertainment",
+    "headquarters": "Tokyo, Japan",
+    "founded": "2006",
+    "notable_franchises": ["Tekken", "Dark Souls (publisher)", "Elden Ring (publisher)", "Tales of", "Dragon Ball Z games", "Pac-Man"],
+    "current_projects": "Bandai Namco is working on new entries in their fighting game franchises and continuing to publish collaborative titles with FromSoftware.",
+    "description": "Bandai Namco Entertainment is a Japanese multinational video game publisher known for a diverse portfolio spanning fighting games, RPGs, and arcade titles."
+  },
+  {
+    "name": "Annapurna Interactive",
+    "headquarters": "Los Angeles, California, USA",
+    "founded": "2016",
+    "notable_franchises": ["Stray", "What Remains of Edith Finch", "Outer Wilds", "Neon White", "Cocoon"],
+    "current_projects": "Annapurna Interactive continues to publish highly curated indie titles and is developing an animated film adaptation of Stray.",
+    "description": "Annapurna Interactive is the video game publishing division of Annapurna Pictures, focused on publishing personal and innovative indie games with strong artistic vision."
+  },
+  {
+    "name": "Raw Fury",
+    "headquarters": "Stockholm, Sweden",
+    "founded": "2015",
+    "notable_franchises": ["Kingdom (Two Crowns)", "Sable", "Star Renegades", "Esoteric Ebb", "Norco"],
+    "current_projects": "Raw Fury continues to publish narrative-driven and artistically unique indie titles across multiple platforms.",
+    "description": "Raw Fury is a Swedish indie game publisher known for supporting creative and artistic indie games, providing developers with funding and publishing support while maintaining creative freedom."
+  }
+]

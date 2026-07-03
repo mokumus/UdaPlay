@@ -1,0 +1,137 @@
+[
+  {
+    "title": "FIFA 21",
+    "developer": "EA Vancouver",
+    "publisher": "Electronic Arts",
+    "release_date": "October 9, 2020",
+    "platforms": ["PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "PC", "Nintendo Switch", "Stadia"],
+    "genre": "Sports, Football Simulation",
+    "description": "FIFA 21 is a football simulation video game published by Electronic Arts. It is the 28th installment in the FIFA series. The game features improved gameplay mechanics, enhanced AI, and new game modes including an updated Career Mode and the return of FIFA Ultimate Team."
+  },
+  {
+    "title": "God of War Ragnarok",
+    "developer": "Santa Monica Studio",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "November 9, 2022",
+    "platforms": ["PlayStation 4", "PlayStation 5", "PC"],
+    "genre": "Action-Adventure, Hack and Slash",
+    "description": "God of War Ragnarok is an action-adventure game developed by Santa Monica Studio. It is the ninth installment in the God of War series and the sequel to God of War (2018). The game follows Kratos and his son Atreus as they journey through the Nine Realms seeking answers as Ragnarok approaches."
+  },
+  {
+    "title": "Pokemon Red",
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "release_date": "February 27, 1996",
+    "platforms": ["Game Boy"],
+    "genre": "Role-Playing Game (RPG)",
+    "description": "Pokemon Red is a role-playing video game developed by Game Freak and published by Nintendo for the Game Boy. It is one of the first installments of the Pokemon series. Players assume the role of a Pokemon Trainer who journeys through the Kanto region to catch and train Pokemon, battle other trainers, and become the Pokemon Champion."
+  },
+  {
+    "title": "Grand Theft Auto V",
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
+    "release_date": "September 17, 2013",
+    "platforms": ["PlayStation 3", "PlayStation 4", "PlayStation 5", "Xbox 360", "Xbox One", "Xbox Series X/S", "PC"],
+    "genre": "Action-Adventure, Open World",
+    "description": "Grand Theft Auto V is an action-adventure game developed by Rockstar North and published by Rockstar Games. Set within the fictional state of San Andreas, the single-player story follows three protagonists and their efforts to commit heists while under pressure from a corrupt government agency and powerful criminals."
+  },
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "March 3, 2017",
+    "platforms": ["Nintendo Switch", "Wii U"],
+    "genre": "Action-Adventure, Open World",
+    "description": "The Legend of Zelda: Breath of the Wild is an action-adventure game developed by Nintendo EPD. It breaks conventions of the Zelda series by featuring an open world environment, physics-based gameplay, and non-linear storytelling. Players control Link as he awakens from a 100-year slumber to defeat Calamity Ganon."
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "release_date": "May 19, 2015",
+    "platforms": ["PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "PC", "Nintendo Switch"],
+    "genre": "Action RPG, Open World",
+    "description": "The Witcher 3: Wild Hunt is an action role-playing game developed by CD Projekt Red. Players control Geralt of Rivia, a monster hunter known as a Witcher, who is looking for his missing adopted daughter on the run from the Wild Hunt. The game features a vast open world rich with storylines and quests."
+  },
+  {
+    "title": "Minecraft",
+    "developer": "Mojang Studios",
+    "publisher": "Mojang Studios (Xbox Game Studios)",
+    "release_date": "November 18, 2011",
+    "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Nintendo Switch", "iOS", "Android"],
+    "genre": "Sandbox, Survival",
+    "description": "Minecraft is a sandbox survival game developed by Mojang Studios. Players explore a procedurally generated 3D world made of blocks, gathering resources, crafting tools, and building structures. The game offers multiple modes including Survival, Creative, Adventure, and Spectator modes."
+  },
+  {
+    "title": "Elden Ring",
+    "developer": "FromSoftware",
+    "publisher": "Bandai Namco Entertainment",
+    "release_date": "February 25, 2022",
+    "platforms": ["PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "PC"],
+    "genre": "Action RPG, Open World, Soulslike",
+    "description": "Elden Ring is an action RPG developed by FromSoftware in collaboration with fantasy novelist George R. R. Martin. Set in the Lands Between, players control a customizable character on a quest to repair the Elden Ring and become the new Elden Lord. The game combines FromSoftware's signature challenging combat with a vast open world."
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "developer": "Rockstar Studios",
+    "publisher": "Rockstar Games",
+    "release_date": "October 26, 2018",
+    "platforms": ["PlayStation 4", "Xbox One", "PC", "Stadia"],
+    "genre": "Action-Adventure, Open World, Western",
+    "description": "Red Dead Redemption 2 is an action-adventure game developed by Rockstar Studios and published by Rockstar Games. Set in 1899, it follows outlaw Arthur Morgan and the Van der Linde gang as they flee across America after a robbery goes wrong. The game features an expansive open world set in a fictionalized version of the American West."
+  },
+  {
+    "title": "Cyberpunk 2077",
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "release_date": "December 10, 2020",
+    "platforms": ["PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "PC", "Stadia"],
+    "genre": "Action RPG, Open World, Cyberpunk",
+    "description": "Cyberpunk 2077 is an open-world action RPG developed by CD Projekt Red set in Night City, a megalopolis obsessed with power, glamour, and body modification. Players assume the role of V, a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality."
+  },
+  {
+    "title": "Dispatch",
+    "developer": "AdHoc Studio",
+    "publisher": "AdHoc Studio",
+    "release_date": "October 22, 2025",
+    "platforms": ["PlayStation 5", "PC", "Nintendo Switch", "Nintendo Switch 2", "Xbox Series X/S"],
+    "genre": "Adventure, Interactive Film, Simulation",
+    "description": "Dispatch is an episodic adventure game developed and published by AdHoc Studio. Described as a superhero workplace comedy, the game has the player take the role of Robert Robertson III, formerly the superhero Mecha Man, who takes a job as a dispatcher for villains-turned-superheroes after his mecha suit is destroyed. The game features dialogue trees, strategic hero management across a dispatch network, and choices that affect the story. Its cast includes Aaron Paul, Jeffrey Wright, Laura Bailey, and Matthew Mercer."
+  },
+  {
+    "title": "Stray",
+    "developer": "BlueTwelve Studio",
+    "publisher": "Annapurna Interactive",
+    "release_date": "July 19, 2022",
+    "platforms": ["PlayStation 4", "PlayStation 5", "PC", "Xbox One", "Xbox Series X/S", "macOS", "Nintendo Switch"],
+    "genre": "Adventure",
+    "description": "Stray is an adventure game developed by BlueTwelve Studio and published by Annapurna Interactive. The story follows a stray cat who falls into a walled city populated by robots, machines, and mutant bacteria. The cat sets out to return to the surface with the help of a drone companion, B-12. The game is presented through a third-person perspective with platforming, puzzle-solving, and stealth elements. Its aesthetics were influenced by Kowloon Walled City."
+  },
+  {
+    "title": "Esoteric Ebb",
+    "developer": "Christoffer Bodegard",
+    "publisher": "Raw Fury",
+    "release_date": "March 3, 2026",
+    "platforms": ["PC"],
+    "genre": "Role-Playing Game (RPG)",
+    "description": "Esoteric Ebb is a role-playing video game developed by Christoffer Bodegard and published by Raw Fury. Inspired by Disco Elysium and Dungeons & Dragons, the player controls the 'world's worst cleric' who must uncover the reason for the explosion of a tea shop in the city of Norvik. Instead of combat, the game resolves conflicts through dialogue and skill checks against inner voices representing six attributes: Strength, Dexterity, Intelligence, Wisdom, Constitution, and Charisma."
+  },
+  {
+    "title": "Battlefield 6",
+    "developer": "Battlefield Studios (DICE, Criterion Games, Motive Studio, Ripple Effect Studios)",
+    "publisher": "Electronic Arts",
+    "release_date": "October 10, 2025",
+    "platforms": ["PlayStation 5", "PC", "Xbox Series X/S"],
+    "genre": "First-Person Shooter",
+    "description": "Battlefield 6 is an online-only first-person shooter developed by Battlefield Studios and published by Electronic Arts. The eighteenth installment in the Battlefield series, it features four character classes (Assault, Engineer, Support, Recon), environmental destructibility, and a new Escalation multiplayer mode. The game includes a single-player campaign set between 2027 and 2028 revolving around a conflict between NATO and Pax Armata. It sold over 7 million units in three days, becoming the biggest launch in the series history."
+  },
+  {
+    "title": "Forza Motorsport",
+    "developer": "Turn 10 Studios",
+    "publisher": "Xbox Game Studios",
+    "release_date": "October 10, 2023",
+    "platforms": ["PC", "Xbox Series X/S"],
+    "genre": "Sim Racing",
+    "description": "Forza Motorsport (2023) is a sim racing game developed by Turn 10 Studios and published by Xbox Game Studios. It is the eighth Forza Motorsport title and a reboot of the sub-series. The game features over 500 vehicles, 20 tracks, ray tracing, dynamic time of day, and a progression system inspired by RPGs where players unlock Car Points for each vehicle. It won Best Sports/Racing Game at The Game Awards 2023."
+  }
+]
